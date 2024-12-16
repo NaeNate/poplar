@@ -3,7 +3,7 @@
 
   "name": "Poplar",
   "version": "1.0",
-  "description": "Preface your prompts with instructions",
+  "description": "Preface your prompts with prebuilt instructions",
 
   "browser_action": { "default_popup": "index.html" },
   "permissions": ["storage", "clipboardWrite"]
