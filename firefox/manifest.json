@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+
+  "name": "Poplar",
+  "version": "1.0",
+  "description": "Preface your prompts with instructions",
+
+  "browser_action": { "default_popup": "index.html" },
+  "permissions": ["storage", "clipboardWrite"]
+}
